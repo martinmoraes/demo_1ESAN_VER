@@ -1,2 +1,3 @@
 Segundo arquivo criado
 mais alguma coisa qualquer
+linha acrescentada na branch fix
